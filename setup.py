@@ -4,7 +4,7 @@ import unittest
 
 
 
-with open("README.md", "r") as fh:
+#with open("README.md", "r") as fh:
     #long_description = fh.read()
     #long_description=readme + '\n\n' + history,
 
