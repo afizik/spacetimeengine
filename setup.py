@@ -2,12 +2,11 @@ import setuptools
 from setuptools import setup, find_packages
 import unittest
 
-with open('README.md') as readme_file:
-    readme = readme_file.read()
+
 
 with open("README.md", "r") as fh:
     #long_description = fh.read()
-    long_description=readme + '\n\n' + history,
+    #long_description=readme + '\n\n' + history,
 
 requirements = ['sympy']
 
